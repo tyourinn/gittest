@@ -1,0 +1,7 @@
+
+https://weblabo.oscasierra.net/installing-mysql56-windows-1/
+
+MySQL Server 5.6 を Windows にインストールする手順
+
+https://downloads.mysql.com/archives/installer/
+
